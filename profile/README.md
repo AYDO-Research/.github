@@ -6,7 +6,7 @@
 
 AYDO Research menyimpan proses belajar teknis untuk kebutuhan kerja, dari diskusi awal sampai materi yang siap disampaikan. Setiap topik dikerjakan bersama **Claude Code** dan **Codex** dengan preferensi yang sama, sehingga hasilnya konsisten dari satu topik ke topik berikutnya.
 
-[Pendekatan](#pendekatan) · [Alur belajar](#alur-belajar) · [Fokus](#fokus) · [Prinsip](#prinsip)
+[Pendekatan](#pendekatan) · [Alur belajar](#alur-belajar) · [Fokus](#fokus) · [Prinsip](#prinsip) · [Kontak](#kontak)
 
 ## Pendekatan
 
@@ -43,6 +43,18 @@ Topik baru masuk library setelah pemahamannya dikonfirmasi, bukan karena diskusi
 - **Sumber yang jelas.** Klaim teknis memakai sumber primer, dan batas buktinya dinyatakan.
 - **Preferensi yang sama.** Semua topik mengikuti satu baseline preferensi yang terus diperbarui.
 - **Kendali pada pengguna.** Topik, penilaian pemahaman, dan persetujuan hasil tetap berada pada manusia.
+
+## Kontak
+
+Dikelola oleh **Adi Yudhanegara**.
+
+| Kanal | Alamat |
+| :--- | :--- |
+| Email | [adi.yudhanegaradona@gmail.com](mailto:adi.yudhanegaradona@gmail.com) |
+| WhatsApp | [+62 896-5104-6251](https://wa.me/6289651046251) |
+| LinkedIn | [linkedin.com/in/adiyudhanegara](https://www.linkedin.com/in/adiyudhanegara) |
+| Instagram | [@adiyudhanegara](https://www.instagram.com/adiyudhanegara) |
+| Facebook | [facebook.com/adiyudhanegara](https://www.facebook.com/adiyudhanegara) |
 
 ---
 
